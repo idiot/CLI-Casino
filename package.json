@@ -1,6 +1,6 @@
 {
   "name": "CLI-Casino",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "A casino in your terminal!",
   "main": "index.js",
   "scripts": {
